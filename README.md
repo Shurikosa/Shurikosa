@@ -7,10 +7,26 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shurikosa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shurikosa&theme=github_dark&utcOffset=8)
 
-[![My languaпes](https://skillicons.dev/icons?i=java,php,js)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=spring,laravel,vue)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,php,js)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=html,css,tailwind,dootstrap,vite)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=spring,laravel,vue)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite)](https://skillicons.dev)
+
+https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png
+
+[![](https://skillicons.dev/icons?i=atom,eclipse,idea,phpstorm)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=hibernate,postgres,sqlite,mysql)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=git,gradle,jenkins,maven,nginx,obsidian,postman,docker)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=linux,windows,mint,debian,arch)](https://skillicons.dev)
+
+
+
+
+
 
 
 
