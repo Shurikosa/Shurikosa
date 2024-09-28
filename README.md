@@ -40,7 +40,7 @@
 
 
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Shurikosa)   
+[![codewars](https://www.codewars.com/users/Shurikosa/badges/large)](https://www.codewars.com/users/Shurikosa)   
 <!--
 **Shurikosa/Shurikosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
