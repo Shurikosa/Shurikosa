@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  
+![](https://komarev.com/ghpvc/?shurikosa=your-github-shurikosa)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!+Wellcome+to+my+github+page)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technologies)](https://git.io/typing-svg)
