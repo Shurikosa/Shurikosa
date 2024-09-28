@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!+Wellcome+to+my+github+page)](https://git.io/typing-svg)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shurikosa&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shurikosa&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shurikosa&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shurikosa&theme=nord_dark&utcOffset=8)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technologies)](https://git.io/typing-svg)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
