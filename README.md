@@ -13,7 +13,7 @@
 
 [![](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite)](https://skillicons.dev)
 
-https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png
+[!](https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png)
 
 [![](https://skillicons.dev/icons?i=atom,eclipse,idea,phpstorm)](https://skillicons.dev)
 
