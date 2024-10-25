@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shurikosa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shurikosa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shurikosa&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shurikosa&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shurikosa&theme=github_dark&utcOffset=2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shurikosa&theme=github_dark)
 
 [![](https://skillicons.dev/icons?i=java,php,js)](https://skillicons.dev)
